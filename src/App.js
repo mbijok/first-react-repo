@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
     <>
-      <h1 className="bg-pink-200 w-100 m-auto">Hello world!</h1>
+      <h1 className="bg-pink-200 max-w-max p-10 text-indigo-600 font-black m-auto">
+        Hello world!
+      </h1>
     </>
   );
 }
