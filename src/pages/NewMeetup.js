@@ -22,7 +22,7 @@ function NewMeetupPage() {
 
   return (
     <section>
-      <h1 className="text-3xl">Add Nem Meetup</h1>
+      <h1 className="text-3xl">Add New Meetup</h1>
       <NewMeetupForm onAddMeetup={addMeetupHandler} />
     </section>
   );
