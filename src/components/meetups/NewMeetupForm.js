@@ -49,7 +49,7 @@ function NewMeetupForm(props) {
             id="description"
             required
             rows="5"
-          ></textarea>{' '}
+          ></textarea>
         </div>
         <div className={classes.actions}>
           <button>Add Meetup</button>
